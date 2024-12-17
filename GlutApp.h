@@ -4,6 +4,7 @@
 #include <stdexcept>
 #include <GL/freeglut.h>
 #include "AppController.h"
+#include <string>
 
 struct GlutApp;
 
